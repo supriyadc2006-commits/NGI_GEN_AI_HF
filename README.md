@@ -1,9 +1,5 @@
 # NGI_GEN_AI_HF
 
-The Project:
+# TEXT_TO_IMAGE_APP
 
-LLM Based Bot using GROQ and LLAMA.
-
-Streamlit UI
-
-Deployed over Streamlit.io
+Text to Image Generator - Using Stable Diffusion Model - Generating images from text prompts
